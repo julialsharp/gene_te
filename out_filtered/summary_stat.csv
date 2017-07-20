@@ -1,0 +1,7 @@
+metric_type,mean_val,sd_val,median_val,min_val,max_val
+gene_len,60610.6,125008.37,22791,147,2320934
+mcs_ds,701.38,1727.28,208,0,40934
+protein_len,581.69,555.83,436,24,14507
+rvis,-0.02,1,-0.06,-8.29,29.75
+te,90.22,172.86,35,0,3314
+transcripts,4.1,3.49,2,1,56
